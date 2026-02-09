@@ -35,6 +35,7 @@ def main():
     run_script("pandas_advance_step.py")
     run_script("numpy_basics_step.py")
     run_script("numpy_advance_step.py")
+    run_script("check_missing.py")
 
     ifsc_code = ask_ifsc_code()
     run_script("Ifsc.py", args=[ifsc_code])
