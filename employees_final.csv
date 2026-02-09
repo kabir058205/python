@@ -1,0 +1,6 @@
+EmpID,Name,Age,Country,Salary,Bonus,TotalComp,JoinDate,YearsInCompany,SalaryBand,SeniorFlag
+101,Kabir,35.0,Sweden,90000,9000.0,99000.0,2020-01-10,6,High,Senior
+102,Amit,30.0,India,70000,7000.0,77000.0,2019-03-15,6,Low,Junior
+103,Sara,28.0,USA,65000,6500.0,71500.0,2021-07-01,4,Low,Junior
+104,John,40.0,UK,80000,8000.0,88000.0,2018-11-20,7,Medium,Senior
+105,Ravi,33.25,India,72000,7200.0,79200.0,2022-06-05,3,Medium,Junior
